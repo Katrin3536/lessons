@@ -22,6 +22,7 @@ function App() {
         setValue(value + 1);
 
     };
+
     // const setToLocalStorage = () => {
     //     localStorage.setItem('counterValue', JSON.stringify(value));
     //     // localStorage.setItem('counterValue +1', JSON.stringify(value + 1));
